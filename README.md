@@ -101,7 +101,7 @@ plt.show()
 If you'd like to contribute, feel free to fork this repository and create a pull request!
 
 ## Contact
-For questions or collaboration, reach out on [LinkedIn](www.linkedin.com/in/laura-silola-1671b128a).
+For questions or collaboration, reach out on [LinkedIn](https://www.linkedin.com/in/laura-silola-1671b128a/?originalSubdomain=ke).
 
 ---
 **Let's work towards reducing food waste for a more sustainable future!** 🌍
